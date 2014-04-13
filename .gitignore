@@ -19,3 +19,7 @@ doc/api
 doc/app
 *.swp
 * ̃ .DS_Store
+.idea
+.idea/*
+cache
+demo_app.iml
